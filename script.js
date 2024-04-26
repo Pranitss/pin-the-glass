@@ -87,6 +87,7 @@ function reshoot1(){
         document.addEventListener("click", shootY); 
     },1000);
 }
+
 var startDate = new Date();
 var startTime = startDate.getTime();
 function timer(){

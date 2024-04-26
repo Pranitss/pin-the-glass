@@ -18,8 +18,8 @@ body{
   border-radius: 0.3rem;
   display: none;
   color: rgb(7, 8, 68); 
-  border: 3px solid rgb(0, 0, 0);
-  background-color: rgb(95, 19, 68);
+  border: 3px solid rgb(43, 42, 42);
+  background-color: rgb(42, 7, 29);
 }
 #reshoot:hover, #restart:hover{
   cursor: pointer;
